@@ -55,17 +55,17 @@ date: '`r Sys.Date()`'
 output: html_document
 ---
   
-  ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+#  ```{r setup, include=FALSE}
+#knitr::opts_chunk$set(echo = TRUE)
+
 ##Videos I've used for this:
-https://www.youtube.com/watch?v=UrOXRvG9oYE
-https://www.youtube.com/watch?v=BPlmjp2ymxw
-https://www.youtube.com/watch?v=v1uUgTcInQk
-https://www.youtube.com/watch?v=CEVELIz4WXM
+# https://www.youtube.com/watch?v=UrOXRvG9oYE
+# https://www.youtube.com/watch?v=BPlmjp2ymxw
+# https://www.youtube.com/watch?v=v1uUgTcInQk
+# https://www.youtube.com/watch?v=CEVELIz4WXM
 
 ##other references
-https://www.zoology.ubc.ca/~bio301/Bio301/Lectures/Lecture25/Overheads.html
+# https://www.zoology.ubc.ca/~bio301/Bio301/Lectures/Lecture25/Overheads.html
 
 
 ### Assignment:
